@@ -1,8 +1,6 @@
 package TourParser;
 
 public enum Destination {
-//    SEA("Море"),
-//    MOUNTAIN("Горы"),
     MOLDOVA("Молдова"),
     UKRAINE("Украина"),
     ROMANIA("Румыния"),
@@ -20,7 +18,6 @@ public enum Destination {
     AUSTRIA("Австрия"),
     EGYPT("Египет"),
     USA("США");
-//    EXCURSION("Экскурсии");
 
     private String ruDescription;
 
